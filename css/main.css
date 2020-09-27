@@ -47,3 +47,7 @@ ul.posts li {
 	flex-direction: column;
 }
 
+.row{
+	display: flex;
+	flex-direction: row;
+}
